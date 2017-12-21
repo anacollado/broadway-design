@@ -18,9 +18,12 @@ p {
 	font-weight: normal;
 }
 
-.link {
+
+
+.btn-nav {
 	font-size: 18px;
 	display: block;
+	color: white;
 }
 
 .bottomtext {
