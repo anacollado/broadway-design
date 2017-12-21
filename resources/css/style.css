@@ -20,6 +20,7 @@ p {
 
 .link {
 	font-size: 18px;
+	display: block;
 }
 
 .bottomtext {
@@ -27,6 +28,7 @@ p {
 	color: white;
 	background-color: dimgray;
 }
+
 
 #divider {
 	font-size: 23px;
