@@ -1,7 +1,35 @@
 body {
 	text-align: center;
+	font-weight: bold;
+	font-family: Helvetica;
 }
 
 .flatiron {
+	background-image: url(../images/flatiron.png);
+	color: White;
+}
+
+h1 {
+	font-size: 70px;
+}
+
+p {
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.link {
+	font-size: 18px;
+}
+
+.bottomtext {
+	text-align: left;
+	color: white;
+	background-color: dimgray;
+}
+
+#divider {
+	font-size: 23px;
+	color: white;
 	background-image: url(../images/flatiron.png);
 }
